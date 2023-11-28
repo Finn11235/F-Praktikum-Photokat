@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<CSampleInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserDataList />
+  <QuantParam>
+    <CalibAction>None</CalibAction>
+    <InternalStandard>0</InternalStandard>
+    <Weight>0</Weight>
+    <Dilution>0</Dilution>
+    <Amount>0</Amount>
+    <InjectionVolume>0</InjectionVolume>
+    <SampleType>Sample</SampleType>
+    <Version>1</Version>
+  </QuantParam>
+  <SampleDescription>
+    <Comment>Base pressure chamber:	1.9e-6 mbar
+Nozzle pressure:	15 bar
+Trigger rate: 		2.00 Hz
+Trigger delay: 		6.3 ms
+Valve on-time: 		730 ms
+U_sample:		40.1 V
+U_grid:			7.22 V
+</Comment>
+    <PreparationMethod />
+    <LotIdentifier />
+    <SampleIdentifier>Dummy</SampleIdentifier>
+    <Version>1</Version>
+  </SampleDescription>
+  <Origin>
+    <SampleTableReference />
+    <ExperimentID />
+    <GelCode />
+    <PlateCode />
+    <NumOnGel>0</NumOnGel>
+    <Vialposition>0</Vialposition>
+    <EMail />
+    <Fax />
+    <Phone />
+    <Laboratory />
+    <Company />
+    <Operator>user</Operator>
+    <Version>1</Version>
+  </Origin>
+  <ExperimentDescription />
+  <Status>success</Status>
+  <Version>1</Version>
+</CSampleInfo>
